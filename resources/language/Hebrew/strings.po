@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: XBMC Addons\n"
 "Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-12-03 20:43+0200\n"
 "Last-Translator: Kodi Translation Team\n"
 "Language-Team: Hebrew (http://www.transifex.com/projects/p/xbmc-addons/language/he/)\n"
 "MIME-Version: 1.0\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: he\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.6\n"
 
 msgctxt "#32000"
 msgid "Add"
@@ -112,6 +113,30 @@ msgctxt "#32023"
 msgid "Timers"
 msgstr "שעוני עצר"
 
+msgctxt "#32024"
+msgid "Custom shortcut"
+msgstr "קיצור מותאם אישית"
+
+msgctxt "#32025"
+msgid "Set label"
+msgstr "ציין שם"
+
+msgctxt "#32026"
+msgid "Set thumbnail"
+msgstr "קבע תמונה ממוזערת"
+
+msgctxt "#32027"
+msgid "Change action"
+msgstr "פעולה מותאמת אישית"
+
+msgctxt "#32028"
+msgid "Reset shortcuts"
+msgstr "איפוס קיצור דרך"
+
+msgctxt "#32029"
+msgid "Common"
+msgstr "משותף"
+
 msgctxt "#32030"
 msgid "Video Library"
 msgstr "ספריית וידאו"
@@ -128,6 +153,30 @@ msgctxt "#32033"
 msgid "Eject tray"
 msgstr "הוצאת מגש"
 
+msgctxt "#32034"
+msgid "Common Shortcut"
+msgstr ""
+
+msgctxt "#32035"
+msgid "Choose which items to display on the Main Menu"
+msgstr ""
+
+msgctxt "#32036"
+msgid "Choose shortcuts for ::MENUNAME::"
+msgstr ""
+
+msgctxt "#32037"
+msgid "Reset all shortcuts"
+msgstr "לאפס את כל קיצורי הדרך"
+
+msgctxt "#32038"
+msgid "Are you sure you want to reset all shortcuts back to default?"
+msgstr "האם אתה בטוח שאתה רוצה לאפס את כל קיצורי הדרך חזרה לברירת מחדל?"
+
+msgctxt "#32039"
+msgid "Pick widget for ::MENUNAME::"
+msgstr ""
+
 msgctxt "#32040"
 msgid "Playlist"
 msgstr "רשימת ניגון"
@@ -136,9 +185,37 @@ msgctxt "#32041"
 msgid "Action"
 msgstr "פעולה"
 
+msgctxt "#32042"
+msgid "Unknown video node"
+msgstr "Unknown video node"
+
+msgctxt "#32043"
+msgid "Choose shortcut category"
+msgstr "בחר קיצור לקטגוריה"
+
 msgctxt "#32044"
 msgid "Select widget"
 msgstr "בחירת יישומון"
+
+msgctxt "#32045"
+msgid "Select background"
+msgstr "בחר רקע"
+
+msgctxt "#32046"
+msgid "Update video library"
+msgstr "עדכון ספריית וידאו"
+
+msgctxt "#32047"
+msgid "Update audio library"
+msgstr "עדכון ספריית אודיו"
+
+msgctxt "#32048"
+msgid "Choose shortcut"
+msgstr "בחר קיצור דרך"
+
+msgctxt "#32049"
+msgid "Building menu..."
+msgstr "Building menu..."
 
 msgctxt "#32050"
 msgid "Default"
@@ -160,9 +237,29 @@ msgctxt "#32054"
 msgid "Kodi Command"
 msgstr "פקודת Kodi"
 
+msgctxt "#32055"
+msgid "Clean video library"
+msgstr "Clean video library"
+
+msgctxt "#32056"
+msgid "Clean audio library"
+msgstr "Clean audio library"
+
 msgctxt "#32057"
 msgid "Kodi Commands"
-msgstr "פקודות Kodi"
+msgstr "פקודת Kodi"
+
+msgctxt "#32058"
+msgid "Create shortcut to here"
+msgstr "צור קיצור דרך לכאן"
+
+msgctxt "#32059"
+msgid "Skin Playlist"
+msgstr "מעטפת רשימת השמעה"
+
+msgctxt "#32060"
+msgid "Do you want to play this playlist, or display it?"
+msgstr ""
 
 msgctxt "#32061"
 msgid "Display"
@@ -171,6 +268,18 @@ msgstr "תצוגה"
 msgctxt "#32062"
 msgid "Play"
 msgstr "שחק"
+
+msgctxt "#32063"
+msgid "Getting directory listing..."
+msgstr ""
+
+msgctxt "#32064"
+msgid "No Shortcuts"
+msgstr "אין קיצורי דרך"
+
+msgctxt "#32065"
+msgid "There are no shortcuts available for the category that you choose."
+msgstr "אין קיצורי דרך עבור הקטגוריה שנבחרה."
 
 msgctxt "#32066"
 msgid "Last TV channel"
@@ -190,7 +299,15 @@ msgstr "מקור וידאו"
 
 msgctxt "#32070"
 msgid "UPnP"
-msgstr "UPnP"
+msgstr ""
+
+msgctxt "#32071"
+msgid "Customize Main Menu"
+msgstr ""
+
+msgctxt "#32072"
+msgid "Customize Submenu"
+msgstr ""
 
 msgctxt "#32073"
 msgid "Music Source"
@@ -212,9 +329,41 @@ msgctxt "#32077"
 msgid "Radio Channel"
 msgstr "ערוץ רדיו"
 
+msgctxt "#32078"
+msgid "Display..."
+msgstr "להציג…"
+
 msgctxt "#32079"
 msgid "Files view"
 msgstr "תצוגת קבצים"
+
+msgctxt "#32080"
+msgid "Edit ::MENUNAME:: Submenu"
+msgstr "ערוך ::שם תפריט:: תפריט משנה"
+
+msgctxt "#32081"
+msgid "Movies not in this source"
+msgstr "סרטים אינם כלולים במקור זה"
+
+msgctxt "#32082"
+msgid "TV Shows not in this source"
+msgstr "תוכניות טלוויזיה אינם כלולים במקור זה"
+
+msgctxt "#32083"
+msgid "Music Videos not in this source"
+msgstr "קטעי וידאו ומוסיקה אינם כלולים במקור זה"
+
+msgctxt "#32084"
+msgid "Songs not in this source"
+msgstr "שירים אינם כלולים במקורה זה"
+
+msgctxt "#32085"
+msgid "Albums not in this source"
+msgstr "אלבומים אינם כלולים במקור זה"
+
+msgctxt "#32086"
+msgid "Mixed content not in this source"
+msgstr "תוכן מעורב איננו כלול במקור זה"
 
 msgctxt "#32087"
 msgid "Radio"
@@ -227,6 +376,30 @@ msgstr "ערוצים"
 msgctxt "#32089"
 msgid "Picture Source"
 msgstr "מקור תמונות"
+
+msgctxt "#32090"
+msgid "The item has been added to the menu"
+msgstr ""
+
+msgctxt "#32091"
+msgid "Unable to add item to the menu. Please check log for errors."
+msgstr ""
+
+msgctxt "#32092"
+msgid "Unable to build menu."
+msgstr "לא ניתן לבנות תפריט."
+
+msgctxt "#32093"
+msgid "Upload debug log to Kodilogs.com?"
+msgstr ""
+
+msgctxt "#32094"
+msgid "Install Kodi Log Uploader to easily provide a debug log."
+msgstr ""
+
+msgctxt "#32095"
+msgid "Choose default action for main menu item"
+msgstr ""
 
 msgctxt "#32096"
 msgid "Browse..."
